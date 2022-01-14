@@ -30,7 +30,7 @@ body {
 
 ul li {
     width: 150px;
-    height: 60px;
+    height: 45px;
     background-color: rgba(201, 186, 198, 0.1);
     /*  */
     transition: all 1s;
